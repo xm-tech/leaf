@@ -1,9 +1,9 @@
 package gate
 
 import (
-	"github.com/name5566/leaf/chanrpc"
-	"github.com/name5566/leaf/log"
-	"github.com/name5566/leaf/network"
+	"github.com/xm-tech/leaf/chanrpc"
+	"github.com/xm-tech/leaf/log"
+	"github.com/xm-tech/leaf/network"
 	"net"
 	"reflect"
 	"time"

@@ -1,11 +1,11 @@
 package leaf
 
 import (
-	"github.com/name5566/leaf/cluster"
-	"github.com/name5566/leaf/conf"
-	"github.com/name5566/leaf/console"
-	"github.com/name5566/leaf/log"
-	"github.com/name5566/leaf/module"
+	"github.com/xm-tech/leaf/cluster"
+	"github.com/xm-tech/leaf/conf"
+	"github.com/xm-tech/leaf/console"
+	"github.com/xm-tech/leaf/log"
+	"github.com/xm-tech/leaf/module"
 	"os"
 	"os/signal"
 )
